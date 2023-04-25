@@ -7,7 +7,7 @@ from discord.ext import commands, tasks
 TIKTOK_ACCOUNT = "prced_"
 
 # Replace with your own Discord webhook URL
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1100270835614355467/W7Ndimt1Phprvfu8Jt4cwaskETwg2B_V5X8WD7x1p5XmJe6pFf1oSfzcTaMR4-okfsV5"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1100270835614355467/W7Ndimt1Phprvfu8Jt4cwaskETwg2B_V5X8WD7x1p5XmJe6pFf1oSfzcTaMR4-okfsV5/github"
 
 bot = commands.Bot(command_prefix="!")
 
